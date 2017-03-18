@@ -1,6 +1,4 @@
 # CSP/MATH 571
-# Homework 1
-
 
 # Question 1: Create a variable named "myName" and assign to have a value of your
 # preferred name. Create a varaible named "myEmail" and assign it to have a value
