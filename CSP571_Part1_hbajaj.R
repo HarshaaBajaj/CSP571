@@ -1,5 +1,4 @@
-# Please note that Homework Two consists of two parts, an R file and a
-# Text document. Ensure that you submit both parts.
+# Please note that there are two  parts, an R file and a text document.
 # Load in the Boston Housing data set using the code below.
 install.packages('mlbench')
 library('mlbench')
